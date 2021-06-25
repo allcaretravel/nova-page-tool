@@ -10,7 +10,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
+        "php": "^7.2.5|^8.0",
 		  "spatie/laravel-sluggable": "^3.0.0",
 			"infinety-es/nova-filemanager": "^2.8",
 		"digitalcloud/nova-page-builder-field": "^1.0",
