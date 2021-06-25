@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.1.0",
 		  "spatie/laravel-sluggable": "^3.0.0",
-        "infinety-es/nova-filemanager": "^1.1",
+			"infinety-es/nova-filemanager": "^2.8",
 		"digitalcloud/nova-page-builder-field": "^1.0",
 		"digitalcloud/multilingual-nova": "^1.0"
     },
